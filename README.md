@@ -1,2 +1,4 @@
-# Projeto_em_Python
-# Projeto_em_Python
+# Projetos em Python
+
+Repositório destinado a projetos desenvolvidos durante
+o bootcamp Ciência de Dados com Python da DIO.
