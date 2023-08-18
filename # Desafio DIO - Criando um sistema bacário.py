@@ -17,7 +17,7 @@ saldo = 0
 numero_saques = 0
 extrato = ""
 LIMITE_SAQUES = 3
-LIMITE_VALOR_SAQUE = 500.0
+LIMITE_VALOR_SAQUE = 500
 
 while opcao != 4:
 
