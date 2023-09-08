@@ -57,7 +57,7 @@ while opcao != 4:
         elif valor > 0:
             saldo -= valor
             numero_saques += 1
-            extrato += f"\n    Saque: R$ {valor:.2f}\n"
+            extrato += f"\n       Saque: R$ {valor:.2f}\n"
             print("\n    Saque realizado!")
         
         else:
@@ -66,7 +66,7 @@ while opcao != 4:
     elif opcao == 3:
         print("\n    ***************** EXTRATO ********************")
         print("\n    Não foram realizados movimentos." if not extrato else extrato)
-        print(f"\n    Saldo: R$ {saldo:.2f}")
+        print(f"\n       Saldo: R$ {saldo:.2f}")
         print("\n    **********************************************")
 
     elif opcao == 4:
